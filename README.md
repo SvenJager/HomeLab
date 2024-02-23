@@ -1,2 +1,3 @@
-# HomeLab
-The Repo for all my Homelabbing stuff
+# Homelab
+
+Welcome to my homelab repo, here i store all the info about my homelab
